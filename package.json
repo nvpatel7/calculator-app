@@ -6,12 +6,16 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "ansi-html": "^0.0.9",
     "ejs": "^3.1.8",
+    "glob-parent": "^6.0.2",
     "json5": "^2.2.3",
+    "loader-utils": "^3.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "react-textfit": "^1.1.1",
+    "shell-quote": "^1.7.4",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
